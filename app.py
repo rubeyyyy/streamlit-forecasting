@@ -31,5 +31,3 @@ if df is not None:
     m=Prophet()
     m.fit(data)
 
-
-
